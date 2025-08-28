@@ -27,10 +27,12 @@ La app integra múltiples funcionalidades para mostrar el uso de componentes com
 ## Ejecución
 
 1. Clonar el repositorio:
+   ```bash
    git clone https://github.com/EarroyoS/Un_solito.git
 2. Abrir el proyecto en Android Studio.
 3. Compilar y ejecutar en un emulador o dispositivo físico.
 
 ## Acceso
-  Usuario: eduardo
-  Contraseña: 123456
+
+Usuario: eduardo
+Contraseña: 123456
