@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#1E1E1E</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">#FF9500</item>
+        <item name="android:windowBackground">#1E1E1E</item>
+    </style>
+
+    <!-- Calculator Button Styles -->
+    <style name="NumberButtonStyle">
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:background">#404040</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:elevation">2dp</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+
+    <style name="OperatorButtonStyle">
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:background">#FF9500</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:elevation">2dp</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+
+    <style name="ScientificButtonStyle">
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:background">#6A5ACD</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:elevation">2dp</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+
+    <style name="EqualsButtonStyle">
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:background">#4CAF50</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:elevation">2dp</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+
+    <style name="ClearButtonStyle">
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:background">#FF6B6B</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:elevation">2dp</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+
+</resources>
